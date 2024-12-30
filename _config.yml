@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://asaekengren.github.io"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -11,11 +11,11 @@ google-tracking-id: "UA-XXXXXXXX-X"
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
-favicon: "/img/favicon.ico"
+author: "Asa Ekengren"
+title: "/// Asa Ekengren"
+description: "Personal website and playground."
+keywords: "ekengren, asa"
+favicon: "/img/favicon.ico" 
 ################
 # Header layout#
 ################
@@ -26,8 +26,8 @@ background-img: "intro-bg.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Where’s your will to be weird?"
-me-img: "/img/jetpacktocat.png"
+quote: "Welcome to my online playground and personal portfolio. Take a look around and enjoy life!"
+me-img: "/img/siteicon.png"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -78,7 +78,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "aekengren@pm.me"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 
@@ -91,9 +91,8 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+  "Pending author blurb"
+author_blurb_image: "/img/author.jpg"
 
 ##################
 # Social Buttons #
@@ -101,13 +100,13 @@ author_blurb_image: "/img/author.png"
 
 social:
   - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
+    url: "https://github.com/AsaEkengren/"
   - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
+    url: "https://www.linkedin.com/in/aekengren/"
   - icon: "x-twitter"
-    url: "https://twitter.com/"
+    url: ""
   - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: ""
 
 # NB! Tread carefully if you want to change the variables below this point!
 
