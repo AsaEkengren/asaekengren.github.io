@@ -26,9 +26,8 @@ background-img: "/img/background.jpg"
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Welcome to my online playground and personal portfolio.<br>
-Take a look around and enjoy life! 🦦"
-me-img: "/img/siteicon.png"
+quote: "Welcome to my online playground and personal portfolio. Take a look around and enjoy life! 🦦"
+me-img: "/img/author.jpg"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
