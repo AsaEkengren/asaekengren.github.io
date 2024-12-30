@@ -50,7 +50,7 @@ post-preview-words: 96
 paginate: 5
 email-share: True
 fb-share: False
-twitter-share: True
+twitter-share: False
 linkedin-share: True
 reddit-share: False
 tumblr-share: False
@@ -66,11 +66,14 @@ disqus-shortname: "personal-jekyll-theme"
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+    date: "1985"
+    description: "Born into the world!"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "Early 1990s"
+    description: "Learnin' the basics'"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "Early 1990s"
+    description: "Learnin' the basics'"
 
 # First image of the Timeline
 timeline-img: "/img/timeline/default.png"
