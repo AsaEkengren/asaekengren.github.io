@@ -20,13 +20,14 @@ favicon: "/img/favicon.ico"
 # Header layout#
 ################
 black-favicon: "/img/favicon.ico"
-background-img: "/img/background.jpg"
+background-img: "/img/intro-bg.jpg"
 
 ##############################
 # Dynamic Text on the Header #
 ##############################
 
-quote: "Welcome to my online playground and personal portfolio. Take a look around and enjoy life! 🦦"
+quote: "Welcome to my online playground and personal portfolio. <br>
+Take a look around and enjoy life! 🦦"
 me-img: "/img/author.jpg"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
@@ -106,10 +107,10 @@ social:
     url: "https://github.com/AsaEkengren/"
   - icon: "linkedin-in"
     url: "https://www.linkedin.com/in/aekengren/"
-  - icon: "x-twitter"
-    url: ""
-  - icon: "rss"
-    url: ""
+#  - icon: "x-twitter"
+#    url: ""
+#  - icon: "rss"
+#    url: ""
 
 # NB! Tread carefully if you want to change the variables below this point!
 
