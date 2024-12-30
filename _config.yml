@@ -27,13 +27,12 @@ background-img: "/img/intro-bg.jpg"
 ##############################
 
 quote: "Welcome to my online playground and personal portfolio. <br>
-Take a look around and enjoy life! 🦦"
-me-img: "/img/author.jpg"
+Take a look around and enjoy life! 🦦🏝️"
 
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+me-img: "https://github.com/AsaEkengren.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.
