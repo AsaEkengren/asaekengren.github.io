@@ -88,7 +88,7 @@ Composed a set of songs for nearly three years, but the COVID19 pandemic unfortu
 ## Video
 **Live videos from Idiacanthus' last concert at the Wurlitzer Ballroom in May 2020.** Recorded and edited by [Ruben G. Herrera](https://www.instagram.com/rubengherrera/).  
 **Tabla**
-{% include video id="lGV2RN48MYE" provider="youtube" %}  
+video id="lGV2RN48MYE"
 **Juego**
 video id="dYe1og7qYUo" 
 ## Audio
