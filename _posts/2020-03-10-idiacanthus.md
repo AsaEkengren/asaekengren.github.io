@@ -2,7 +2,7 @@
 layout: post
 section-type: post
 has-comments: true
-title: "Idiacanthus"
+title: Idiacanthus
 category: music
 tags: [ "instrumental", "progressive rock" ]
 ---
