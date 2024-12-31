@@ -8,7 +8,7 @@ tags: [ "instrumental", "progressive rock" ]
 ---
 Played drums and composed with Idiacanthus, an instrumental, progressive rock project formed in Madrid, Spain, in 2018.
 
-Composed a set of songs for nearly three years, but the COVID-19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
+Composed a set of songs for nearly three years, but the COVID19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
 
 ## Lineup
 **Asa Ekengren** - Drums  
@@ -33,6 +33,6 @@ Interview with Idiacanthus on [Mautorland.com](https://www.mautorland.com/entrev
 **Notice:** Only available in Spanish.
 
 # Photos
-**Live at Sala Óxido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn Fotografía](https://www.instagram.com/aldarazn/).
+**Live at Sala Oxido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn Fotografia](https://www.instagram.com/aldarazn/).
 
-**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla Fotografía](https://albertorubiofotografia.es).
+**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla Fotografia](https://albertorubiofotografia.es).
