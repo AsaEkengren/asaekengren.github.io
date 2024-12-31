@@ -5,10 +5,6 @@ has-comments: true
 title: "Free history eBooks by topic"
 category: blog
 tags: [ "history", "eBooks" ]
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
-toc_icon: "fas fa-file-alt"
 ---
 See below for links to fantastic lists of history eBooks by topic from the r/FreeEbooks subreddit
 # [100 eBooks on the obscure & particular](https://www.reddit.com/r/FreeEBOOKS/comments/jbv4ya/happy_1_million_subscribers_here_is_a_list_of_100/)

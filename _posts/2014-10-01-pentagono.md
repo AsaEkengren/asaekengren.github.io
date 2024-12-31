@@ -5,15 +5,6 @@ has-comments: true
 title: "El Pentágono del Poder"
 category: music
 tags: [ "instrumental", "improvisation" ]
-gallery1:
-  - url: /assets/images/pent/pent1.jpg
-    image_path: /assets/images/pent/pent1.jpg
-  - url: /assets/images/pent/pent2.jpg
-    image_path: /assets/images/pent/pent2.jpg
-  - url: /assets/images/pent/pent3.jpg
-    image_path: /assets/images/pent/pent3.jpg
-  - url: /assets/images/pent/pent4.jpg
-    image_path: /assets/images/pent/pent4.jpg
 ---
 Played drums and composed with El Pentágono del Poder, an improvised noise rock band in Madrid, Spain, from 2010 to 2017.
 
@@ -30,4 +21,3 @@ Article on CAL at [Lolapoplife.com](https://www.lapoplife.com/reporte-ibero-137-
 
 # Photos
 **One of various shows at La Faena II, Madrid, Spain**
-{% include gallery id="gallery1" %}  

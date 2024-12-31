@@ -5,10 +5,6 @@ has-comments: true
 title: "Free resources for technical writers 👨🏻‍💻"
 category: blog
 tags: [ "technical writing", "DITA", "XML", "APIs", "GitHub", ]
-toc: true
-toc_label: "Table of Contents"
-toc_sticky: true
-toc_icon: "fas fa-file-alt"
 ---
 
 A list of helpful, 100% free resources for technical writers.
