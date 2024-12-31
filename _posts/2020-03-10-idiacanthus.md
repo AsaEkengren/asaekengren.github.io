@@ -11,10 +11,10 @@ Played drums and composed with Idiacanthus, an instrumental, progressive rock pr
 Composed a set of songs for nearly three years, but the COVID-19 pandemic unfortunately resulted in the studio recording being cancelled and the group disbanding.
 
 ## Lineup
-**Asa Ekengren** -:drum: Drums  
-**Jaime Pascual** - :guitar: Bass  
-**Ali** - :violin: Violin and :notes: vocals  
-**Tomas** - :guitar: Guitar  
+**Asa Ekengren** - Drums  
+**Jaime Pascual** -  Bass  
+**Ali** - Violin and vocals  
+**Tomas** - Guitar  
 
 # Live
 ## Video
