@@ -34,6 +34,6 @@ Interview with Idiacanthus on [Mautorland.com](https://www.mautorland.com/entrev
 {: .notice}
 
 # Photos
-**Live at Sala Ã“xido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn FotografÃ­a](https://www.instagram.com/aldarazn/).
+**Live at Sala Óxido, Guadalajara, Spain, in December 2019.** Photography by [Aldarazn Fotografía](https://www.instagram.com/aldarazn/).
 
-**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla FotografÃ­a](https://albertorubiofotografia.es).
+**Live at the Wurlitzer Ballroom, Madrid, Spain, in May 2020.** Photography by [Alberto Rubio Mediavilla Fotografía](https://albertorubiofotografia.es).
